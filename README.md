@@ -5,12 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UERJ - Universidade do Estado do Rio de Janeiro</title>
     <style>
-    
-        }
-        .logo {
-            max-width: 100%;
-            height: auto;
-        }
     </style>
 </head>
 <body>
